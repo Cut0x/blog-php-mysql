@@ -1,0 +1,34 @@
+body {
+  
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4e4caf;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #343294}
+
+.button:active {
+  background-color: #343294;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+input[type=text]:focus {
+  border: 3px solid #555;
+}
+
+s {
+  font-size:x-large;
+}
