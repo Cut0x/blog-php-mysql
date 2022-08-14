@@ -26,67 +26,37 @@ try {
         <tr>
             <th colspan="4">tbl_user</th>
         </tr>
+        <tr>
+            <td>#</td>
+            <td>Name</td>
+            <td>Type</td>
+            <td>Collation</td>
+            <td>Attributes</td>
+            <td>Null</td>
+            <td>Default</td>
+            <td>Extra</td>
+        </tr>
     </thead>
     <tbody>
         <tr>
-            <td>user_id </td>
+            <td>1</td>
+            <td>user_id</td>
             <td>int(11)</td>
+            <td></td>
+            <td></td>
             <td>No</td>
-            <td></td>
+            <td>None</td>
+            <td>AUTO_INCREMENT</td>
         </tr>
         <tr>
+            <td>2</td>
+            <td>username</td>
+            <td>varchar(15)</td>
+            <td>utf8mb4_general_ci</td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>No</td>
+            <td>None</td>
+            <td>AUTO_INCREMENT</td>
         </tr>
     </tbody>
 </table>
