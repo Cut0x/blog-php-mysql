@@ -19,6 +19,22 @@ try {
 }
 ?>
 ```
+
+# Comment est construite la base de donnée ?
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">The table header</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>The table body</td>
+            <td>with two columns</td>
+        </tr>
+    </tbody>
+</table>
+
 # Comment faire du localhost simplement ?
 Je vous laisse télécharger mon tutorel en pdf !
 <a href="" target="_blank"><img style="widht: 60%;" src="https://cdn.discordapp.com/attachments/914271938359210045/1008477462352646296/36C3-PDF-encryption-featured2.jpg" alt="logo PDF"></a>
