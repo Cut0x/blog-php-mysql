@@ -5,7 +5,17 @@ Voici un blog open-source fait en PHP, CSS, Bootstrap &amp; MySQL !
 Dans le fichier `config.php`, si vous êtes en localhost, le code ressemble à ça *(sous windows)*
 ```php
 <?php
+$db_host="localhost"; 
+$db_user="root";
+$db_password="";   
+$db_name="db_name";
 
+try {
+	$db=new PDO("mysql:host={$db_host};dbname={$db_name}",$db_user,$db_password);
+	$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+} catch(PDOEXCEPTION $e) {
+	$e->getMessage();
+}
 ?>
 ```
 # Comment faire du localhost simplement ?
