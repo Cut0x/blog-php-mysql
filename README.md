@@ -301,4 +301,4 @@ try {
 # Comment faire du localhost simplement ?
 Je vous laisse télécharger mon tutorel en pdf !
 *(Pas encore disponible)*
-<a href="" target="_blank"><img style="widht: 60%;" src="https://cdn.discordapp.com/attachments/914271938359210045/1008477462352646296/36C3-PDF-encryption-featured2.jpg" alt="logo PDF"></a>
+<a href="#" target="_blank"><img style="widht: 60%;" src="https://cdn.discordapp.com/attachments/914271938359210045/1008477462352646296/36C3-PDF-encryption-featured2.jpg" alt="logo PDF"></a>
