@@ -24,7 +24,7 @@ try {
 <table>
     <thead>
         <tr>
-            <th colspan="4">tbl_user</th>
+            <th colspan="8">tbl_user</th>
         </tr>
         <tr>
             <td>#</td>
