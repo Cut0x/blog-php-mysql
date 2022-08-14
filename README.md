@@ -7,7 +7,7 @@ Dans le fichier `config.php`, si vous êtes en localhost, le code ressemble à �
 <?php
 $db_host="localhost"; 
 $db_user="root";
-$db_password="";   
+$db_password=""; // Sous windows, root ne possède pas de mot de passe
 $db_name="db_name";
 
 try {
