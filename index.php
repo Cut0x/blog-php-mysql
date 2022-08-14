@@ -1,3 +1,10 @@
+<?php
+	// DEVELOPPE PAR Cut0x !
+	// Discord : Cut0x#0001
+	// Twitter : Cut0x_
+	// Github  : Cut0x
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
