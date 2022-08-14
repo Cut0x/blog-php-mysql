@@ -39,7 +39,7 @@ try {
     </thead>
     <tbody>
         <tr>
-            <td>1</td>
+            <td>01</td>
             <td>user_id</td>
             <td>int(11)</td>
             <td></td>
@@ -49,7 +49,7 @@ try {
             <td>AUTO_INCREMENT</td>
         </tr>
         <tr>
-            <td>2</td>
+            <td>02</td>
             <td>username</td>
             <td>varchar(15)</td>
             <td>utf8mb4_general_ci</td>
@@ -59,82 +59,82 @@ try {
             <td></td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>03</td>
+            <td>avatar</td>
+            <td>text</td>
+            <td>utf8mb4_general_ci</td>
             <td></td>
+            <td>No</td>
+            <td>'https://.../default_user.png'</td>
             <td></td>
+        </tr>
+        <tr>
+            <td>04</td>
+            <td>email</td>
+            <td>varchar(40)</td>
+            <td>utf8mb4_general_ci</td>
             <td></td>
+            <td>No</td>
+            <td>None</td>
             <td></td>
+        </tr>
+        <tr>
+            <td>05</td>
+            <td>password</td>
+            <td>varchar(225)</td>
+            <td>utf8mb4_general_ci</td>
             <td></td>
+            <td>No</td>
+            <td>None</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>06</td>
+            <td>followers</td>
+            <td>bigint(20)</td>
+            <td></td>
+            <td>No</td>
+            <td>None</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>4</td>
+            <td>07</td>
+            <td>betatest</td>
+            <td>tinyint(1)</td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>No</td>
+            <td>0</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>6</td>
+            <td>08</td>
+            <td>graphiste</td>
+            <td>tinyint(1)</td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>No</td>
+            <td>0</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>09</td>
+            <td>certified</td>
+            <td>tinyint(1)</td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>No</td>
+            <td>0</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>10</td>
+            <td>admin</td>
+            <td>tinyint(1)</td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>No</td>
+            <td>0</td>
             <td></td>
             <td></td>
         </tr>
