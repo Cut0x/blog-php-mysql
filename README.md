@@ -93,9 +93,9 @@ try {
             <td>followers</td>
             <td>bigint(20)</td>
             <td></td>
+            <td></td>
             <td>No</td>
             <td>None</td>
-            <td></td>
             <td></td>
         </tr>
         <tr>
@@ -103,9 +103,9 @@ try {
             <td>betatest</td>
             <td>tinyint(1)</td>
             <td></td>
+            <td></td>
             <td>No</td>
             <td>0</td>
-            <td></td>
             <td></td>
         </tr>
         <tr>
@@ -113,9 +113,9 @@ try {
             <td>graphiste</td>
             <td>tinyint(1)</td>
             <td></td>
+            <td></td>
             <td>No</td>
             <td>0</td>
-            <td></td>
             <td></td>
         </tr>
         <tr>
@@ -123,9 +123,9 @@ try {
             <td>certified</td>
             <td>tinyint(1)</td>
             <td></td>
+            <td></td>
             <td>No</td>
             <td>0</td>
-            <td></td>
             <td></td>
         </tr>
         <tr>
@@ -133,9 +133,9 @@ try {
             <td>admin</td>
             <td>tinyint(1)</td>
             <td></td>
+            <td></td>
             <td>No</td>
             <td>0</td>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
