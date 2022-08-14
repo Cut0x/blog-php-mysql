@@ -1,8 +1,8 @@
 <?php
-$db_host="mysql-la-papote.alwaysdata.net"; 
-$db_user="la-papote";
-$db_password="Loic2||005||";   
-$db_name="la-papote_blog";
+$db_host=""; 
+$db_user="";
+$db_password="";   
+$db_name="";
 
 try {
 	$db=new PDO("mysql:host={$db_host};dbname={$db_name}",$db_user,$db_password);
