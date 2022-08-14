@@ -202,7 +202,56 @@ try {
 <table>
     <thead>
         <tr>
-            <th colspan="8">articles</th>
+            <th colspan="8">likes</th>
+        </tr>
+        <tr>
+            <td>#</td>
+            <td>Name</td>
+            <td>Type</td>
+            <td>Collation</td>
+            <td>Attributes</td>
+            <td>Null</td>
+            <td>Default</td>
+            <td>Extra</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>01</td>
+            <td>id</td>
+            <td>int(11)</td>
+            <td></td>
+            <td></td>
+            <td>No</td>
+            <td>None</td>
+            <td>AUTO_INCREMENT</td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td>id_article</td>
+            <td>int(11)</td>
+            <td></td>
+            <td></td>
+            <td>No</td>
+            <td>None</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>03</td>
+            <td>id_membre</td>
+            <td>int(11)</td>
+            <td></td>
+            <td></td>
+            <td>No</td>
+            <td>None</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <th colspan="8">dislikes</th>
         </tr>
         <tr>
             <td>#</td>
