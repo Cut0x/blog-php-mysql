@@ -3,6 +3,7 @@ Voici un blog open-source fait en PHP, CSS, Bootstrap &amp; MySQL !
 
 # Configuration
 Dans le fichier `config.php`, si vous êtes en localhost, le code ressemble à ça *(sous windows)*
+### *Le fichier se trouve dans `./files/config.php`*
 ```php
 <?php
 $db_host="localhost"; 
