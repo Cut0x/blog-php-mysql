@@ -26,12 +26,6 @@ try {
         <tr>
             <th colspan="2">tbl_user</th>
         </tr>
-        <tr>
-            <td>user_id </td>
-            <td>int(11)</td>
-            <td>No</td>
-            <td></td>
-        </tr>
     </thead>
     <tbody>
         <tr>
